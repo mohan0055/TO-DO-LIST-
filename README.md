@@ -7,6 +7,6 @@
   - Edit tasks
   - Delete tasks
   - Local storage support
-**Getting Started**
 
+**Getting Started**
     https://silly-fudge-530606.netlify.app/
