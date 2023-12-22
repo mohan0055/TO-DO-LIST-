@@ -8,4 +8,5 @@
   - Delete tasks
   - Local storage support
 **Getting Started**
+
     https://silly-fudge-530606.netlify.app/
