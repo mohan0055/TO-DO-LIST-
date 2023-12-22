@@ -1,4 +1,4 @@
-**PROJEC ** -> TO DO LIST
+**PROJECT** -> TO DO LIST
 
 **DESCRIBTION** -> A simple to-do list application with local storage functionality.
 
